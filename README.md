@@ -1,4 +1,4 @@
-# HTML-SKELETON
+# Contributing for begineers
 basic-code-contribute
 
 For beginners to contributing to open source
